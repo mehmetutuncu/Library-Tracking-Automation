@@ -1,6 +1,6 @@
 # Library-Tracking-Otomation
-This application is the management panel of a library. Through this panel, the stock status of books is being followed. In addition, books are available for staplers, and these books are provided at a glance.
-Don't forget to give stars.
+
+This application is a library's management panel. In this panel, the stock status of the books is followed. In addition, books are delivered to the users and provided for follow-up.
 # ScreenShot
 <a href="https://ibb.co/cBBgrT"><img src="https://preview.ibb.co/irg35o/1.png" alt="1" border="0"></a><hr>
 <a href="https://ibb.co/kmjHWT"><img src="https://preview.ibb.co/cAUUd8/2.png" alt="2" border="0"></a><hr>
